@@ -1,2 +1,1 @@
-# Test
-first Test of a repository
+Die Idee dieses Repositories ist die Vorhersage der Ergebnisse der kommenden WM. Dafür werden Daten der Teams, Spieler und der Nation ausgewählt und basierend darauf werden ML Modelle trainiert und validiert.
