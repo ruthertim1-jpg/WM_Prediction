@@ -1,4 +1,9 @@
 import numpy as np
+import pandas as pd
+
+df_Elo = pd.read_csv("Elo_Ratings.csv")
+df_Wert = pd.read_clipboard("Nationalmannschaften_Wert.csv")
+
 #Gruppen Dictionary:
 Gruppen = {
     "Gruppe A": ["Mexiko", "Südafrika", "Republik Korea", "Tschechien"],
@@ -36,3 +41,9 @@ Achtelfinale = {
 #1 Halbfinale
 
 #Finale
+
+# Datenstruktur
+
+df_Team1 = pd.merge{
+    
+}
