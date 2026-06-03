@@ -44,6 +44,3 @@ Achtelfinale = {
 
 # Datenstruktur
 
-df_Team1 = pd.merge{
-    
-}
