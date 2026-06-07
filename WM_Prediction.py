@@ -7,6 +7,9 @@ from itertools import combinations
 import WM_structure
 from WM_structure import Gruppen
 
+import unicodedata
+
+
 df_Elo = pd.read_csv("ELO_Ratings.csv", encoding= "latin-1", sep=";")
 df_Wert = pd.read_csv("Nationalmannschaften_Wert.csv", sep=";")
 df_results = pd.read_csv("results.csv")
@@ -40,7 +43,7 @@ for Gruppe , Teams in Gruppen.items():
         "Spiele": spiele_pro_gruppe,
     }
     gesamt_spielplan.append(gruppen_spielplan)
-print(gesamt_spielplan)
+#print(gesamt_spielplan)
 
 
 
@@ -49,7 +52,7 @@ X=[]
 y=[]
 
 df_features = df_zusammen.set_index("Land")
-features = ["durchschnitts-Alter", "Marktwert","Rank", "Losses","Wins","Draws","Matches_Total","Goals_For", "Goals_Against","Rating",]
+features = ["durchschnitts-Alter", "Marktwert","Rank","Rating","Average_Rank","Kadergröße","Matches_Total","Goals_For","Goals_Against"]
 
 def normalisierte_Ergebnis(Tore):
     if Tore["home_score"] > Tore["away_score"]:
@@ -60,6 +63,9 @@ def normalisierte_Ergebnis(Tore):
         return 0 # Untentschieden
     
 df_results["Ergebnis"] = df_results.apply(normalisierte_Ergebnis,axis=1) # einfügen von 1,2,0 in die Tabellen
+df_resultswm = df_results[
+    df_results["home_team"].isin(wm_länderliste) & 
+    df_results["away_team"].isin(wm_länderliste)].copy() ######## Gemini###### 
 df_resultswm["Ergebnis"] = df_resultswm.apply(normalisierte_Ergebnis,axis=1)
 
 
@@ -80,8 +86,8 @@ y = np.array(y)
 
 
 #Random Forest Model
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1, random_state=42)
-model = RandomForestClassifier(n_estimators=100, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+model = RandomForestClassifier(n_estimators=200,random_state=42, max_depth= 3,min_samples_split=5)
 model.fit(X_train,y_train)
 
 y_pred = model.predict(X_test)
