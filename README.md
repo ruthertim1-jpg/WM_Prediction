@@ -13,7 +13,7 @@ Schaut es euch gerne mal an! Wenn ihr etwas findet, was man besser oder anders m
     * Vergangene Länderspiele (ab 01.01.2016 bis 27.05.2027)
     * ELO-Ratings
     * Durchschnittliches Alter des Kaders
-* **Fakt:** Keine einzige Zeile Vibe-Coding! 
+* **Fakt auf den ich solz bin:** Keine einzige Zeile Vibe-Coding! 
 
 
 
@@ -21,6 +21,6 @@ Schaut es euch gerne mal an! Wenn ihr etwas findet, was man besser oder anders m
 
 Ich konnte leider nur die Gruppenphasen vorhersagen, da der diesjährige Turnierplan es nicht ermöglicht, klar zu sagen, wer gegen wen antreten wird. Wenn ich es einplanen kann, werde ich das Gleiche noch einmal für die 16tel-Finals und die folgenden Runden versuchen zu prognostizieren!
 
-herlziche Grüße,
+herzliche Grüße,
 
 Tim
