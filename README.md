@@ -24,6 +24,6 @@ Ich konnte leider nur die Gruppenphasen vorhersagen, da der diesjährige Turnier
 herzliche Grüße,
 
 Tim
+<img width="266" height="834" alt="Bildschirmfoto 2026-06-07 um 22 29 13" src="https://github.com/user-attachments/assets/d6f18e81-0131-4543-8d13-c69b070110b0" />
+<img width="357" height="416" alt="Bildschirmfoto 2026-06-07 um 22 29 27" src="https://github.com/user-attachments/assets/7bfbcbed-54ac-49b4-a340-30151512147e" />
 
-![Vorhersagen:](/Users/timruther/Documents/GitHub/WM_Prediction/Bildschirmfoto 2026-06-07 um 22.29.13.png)
-![Vorhersagen:](/Users/timruther/Documents/GitHub/WM_Prediction/Bildschirmfoto 2026-06-07 um 22.29.27.png)
