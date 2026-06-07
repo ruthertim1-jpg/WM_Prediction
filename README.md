@@ -24,3 +24,6 @@ Ich konnte leider nur die Gruppenphasen vorhersagen, da der diesjährige Turnier
 herzliche Grüße,
 
 Tim
+
+![Vorhersagen:](/Users/timruther/Documents/GitHub/WM_Prediction/Bildschirmfoto 2026-06-07 um 22.29.13.png)
+![Vorhersagen:](/Users/timruther/Documents/GitHub/WM_Prediction/Bildschirmfoto 2026-06-07 um 22.29.27.png)
