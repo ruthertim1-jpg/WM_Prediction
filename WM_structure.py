@@ -7,18 +7,18 @@ df_Wert = pd.read_csv("Nationalmannschaften_Wert.csv", sep=";")
 
 #Gruppen Dictionary:
 Gruppen = {
-    "Gruppe A": ["Mexiko", "Südafrika", "Republik Korea", "Tschechien"],
-    "Gruppe B": ["Kanada", "Bosnien und Herzegowina", "Katar", "Schweiz"],
-    "Gruppe C": ["Brasilien", "Marokko", "Haiti", "Schottland"],
-    "Gruppe D": ["USA", "Paraguay", "Australien", "Türkei"],
-    "Gruppe E": ["Deutschland", "Curaçao", "Elfenbeinküste", "Ecuador"],
-    "Gruppe F": ["Niederlande", "Japan", "Schweden", "Tunesien"],
-    "Gruppe G": ["Belgien", "Ägypten", "IR Iran", "Neuseeland"],
-    "Gruppe H": ["Spanien", "Kap Verde", "Saudi-Arabien", "Uruguay"],
-    "Gruppe I": ["Frankreich", "Senegal", "Irak", "Norwegen"],
-    "Gruppe J": ["Argentinien", "Algerien", "Österreich", "Jordanien"],
-    "Gruppe K": ["Portugal", "DR Kongo", "Usbekistan", "Kolumbien"],
-    "Gruppe L": ["England", "Kroatien", "Ghana", "Panama"],
+    "Group A": ["Mexico", "South Africa", "South Korea", "Czech Republic"],
+    "Group B": ["Canada", "Bosnia and Herzegovina", "Qatar", "Switzerland"],
+    "Group C": ["Brazil", "Morocco", "Haiti", "Scotland"],
+    "Group D": ["United States", "Paraguay", "Australia", "Turkey"],
+    "Group E": ["Germany", "Curaçao", "Ivory Coast", "Ecuador"],
+    "Group F": ["Netherlands", "Japan", "Sweden", "Tunisia"],
+    "Group G": ["Belgium", "Egypt", "Iran", "New Zealand"],
+    "Group H": ["Spain", "Cape Verde", "Saudi Arabia", "Uruguay"],
+    "Group I": ["France", "Senegal", "Iraq", "Norway"],
+    "Group J": ["Argentina", "Algeria", "Austria", "Jordan"],
+    "Group K": ["Portugal", "Democratic Republic of the Congo", "Uzbekistan", "Colombia"],
+    "Group L": ["England", "Croatia", "Ghana", "Panama"],
 }
 
 # sechtzentelfinale

@@ -1,4 +1,4 @@
-No;Land;Konföderation;Kadergröße;Ø-Alter;Marktwert
+No;Land;Konföderation;Kadergröße;durchschnitts-Alter;Marktwert
 1;France;UEFA;26;27.0;1530000000
 2;England;UEFA;26;27.1;1310000000
 3;Spain;UEFA;26;26.1;1260000000
@@ -42,7 +42,7 @@ No;Land;Konföderation;Kadergröße;Ø-Alter;Marktwert
 41;Paraguay;CONMEBOL;26;29.0;157150000
 42;Kosovo;UEFA;30;27.1;155780000
 43;Bosnia and Herzegovina;UEFA;28;26.1;152700000
-44;Democratic Republic of the Congo;CAF;26;29.1;149050000
+44;DR Congo;CAF;26;29.1;149050000
 45;Ireland;UEFA;26;25.1;144530000
 46;South Korea;AFC;26;28.1;142300000
 47;Egypt;CAF;26;29.0;134680000
@@ -73,7 +73,7 @@ No;Land;Konföderation;Kadergröße;Ø-Alter;Marktwert
 72;Armenia;UEFA;27;26.0;40650000
 73;Suriname;CONCACAF;26;29.1;39230000
 74;Saudi Arabia;AFC;27;28.1;38100000
-75;New Zealand;OFC;26;28.1;35350000
+75;Gabun;CAF;35;27.6;34980000
 76;Panama;CONCACAF;26;30.4;34550000
 77;New Zealand;OFC;26;28.1;34350000
 78;North Macedonia;UEFA;25;27.8;33800000
