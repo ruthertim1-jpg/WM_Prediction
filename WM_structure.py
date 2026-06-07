@@ -1,8 +1,9 @@
 import numpy as np
 import pandas as pd
 
-df_Elo = pd.read_csv("Elo_Ratings.csv")
-df_Wert = pd.read_clipboard("Nationalmannschaften_Wert.csv")
+
+df_Elo = pd.read_csv("ELO_Ratings.csv", encoding= "latin-1", sep=";")
+df_Wert = pd.read_csv("Nationalmannschaften_Wert.csv", sep=";")
 
 #Gruppen Dictionary:
 Gruppen = {

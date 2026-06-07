@@ -1,76 +1,101 @@
-﻿No.;Land;Nation;Konföderation;Kadergröße;ø-Alter;Marktwert;
-1;Frankreich;Frankreich;UEFA;26;27.0;1530000000;
-2;England;England;UEFA;26;27;1310000000;
-3;Spanien;Spanien;UEFA;26;26;1260000000;
-4;Portugal;Portugal;UEFA;26;28.0;1020000000;
-5;Deutschland;Deutschland;UEFA;26;28.0;998000000;
-6;Brasilien;Brasilien;CONMEBOL;26;29.2;912200000;
-7;Niederlande;Niederlande;UEFA;26;27;837200000;
-8;Argentinien;Argentinien;CONMEBOL;26;29;818500000;
-9;Norwegen;Norwegen;UEFA;26;26;601000000;
-10;Belgien;Belgien;UEFA;26;27;542900000;
-11;Elfenbeinküste;Elfenbeinküste;CAF;26;25;530900000;
-12;Türkei;Türkei;UEFA;29;27;494200000;
-13;Marokko;Marokko;CAF;26;26;488200000;
-14;Senegal;Senegal;CAF;28;26;485900000;
-15;Schweden;Schweden;UEFA;26;27;428180000;
-16;Dänemark;Dänemark;UEFA;23;26;412500000;
-17;Uruguay;Uruguay;CONMEBOL;26;28;405800000;
-18;Kroatien;Kroatien;UEFA;26;28;385700000;
-19;Vereinigte Staaten;Vereinigte Staaten;CONCACAF;26;26;378200000;
-20;Ecuador;Ecuador;CONMEBOL;26;26;376200000;
-21;Italien;Italien;UEFA;24;21;340900000;
-22;Schweiz;Schweiz;UEFA;26;28;333600000;
-23;Kolumbien;Kolumbien;CONMEBOL;26;30;305250000;
-24;Japan;Japan;AFC;26;27;278900000;
-25;Österreich;Österreich;UEFA;26;28;271700000;
-26;Griechenland;Griechenland;UEFA;26;26;261700000;
-27;Algerien;Algerien;CAF;26;26;257600000;;;;;;;;;;
-28;Ukraine;Ukraine;UEFA;26;26;254700000;;;;;;;;;;
-29;Georgien;Georgien;UEFA;25;26;248250000;;;;;;;;;;
-30;Russland;Russland;UEFA;33;26;242200000;;;;;;;;;;
-31;Polen;Polen;UEFA;26;26;234300000;;;;;;;;;;
-32;Ghana;Ghana;CAF;28;26;233750000;;;;;;;;;;
-33;Ungarn;Ungarn;UEFA;29;25;214000000;;;;;;;;;;
-34;Kamerun;Kamerun;CAF;24;23;206700000;;;;;;;;;;
-35;Kanada;Kanada;CONCACAF;26;26;203050000;;;;;;;;;;
-36;Schottland;Schottland;UEFA;27;29.0;196230000;;;;;;;;;;
-37;Mexiko;Mexiko;CONCACAF;26;27;194600000;;;;;;;;;;
-38;Tschechien;Tschechien;UEFA;26;27;190180000;;;;;;;;;;
-39;Serbien;Serbien;UEFA;26;22;182300000;;;;;;;;;;
-40;Wales;Wales;UEFA;27;26;181700000;;;;;;;;;;
-41;Paraguay;Paraguay;CONMEBOL;26;29.0;157150000;;;;;;;;;;
-42;Kosovo;Kosovo;UEFA;30;27;155780000;;;;;;;;;;
-43;Bosnien-Herzegowina;Bosnien-Herzegowina;UEFA;28;26;152700000;;;;;;;;;;
-44;Demokratische Republik Kongo;Demokratische Republik Kongo;CAF;26;29;149050000;;;;;;;;;;
-45;Irland;Irland;UEFA;26;25;144530000;;;;;;;;;;
-46;Südkorea;Südkorea;AFC;26;28;142300000;;;;;;;;;;
-47;Ägypten;Ägypten;CAF;26;29.0;134680000;;;;;;;;;;
-48;Mali;Mali;CAF;26;25;116550000;;;;;;;;;;
-49;Slowakei;Slowakei;UEFA;29;27;115850000;;;;;;;;;;
-50;Burkina Faso;Burkina Faso;CAF;25;25.0;109300000;;;;;;;;;;
-51;Slowenien;Slowenien;UEFA;26;26;100550000;;;;;;;;;;
-52;Rumänien;Rumänien;UEFA;26;27;99600000;;;;;;;;;;
-53;Albanien;Albanien;UEFA;26;27;91250000;;;;;;;;;;
-54;Israel;Israel;UEFA;25;26;87700000;;;;;;;;;;
-55;Island;Island;UEFA;24;27;81350000;;;;;;;;;;
-56;Nordirland;Nordirland;UEFA;23;23;79900000;;;;;;;;;;
-57;Venezuela;Venezuela;CONMEBOL;27;25;76900000;;;;;;;;;;
-58;Gambia;Gambia;CAF;23;25;74430000;;;;;;;;;;
-59;Australien;Australien;AFC;26;27;73650000;;;;;;;;;;
-60;Usbekistan;Usbekistan;AFC;30;28.0;73030000;;;;;;;;;;
-61;Chile;Chile;CONMEBOL;26;25;70100000;;;;;;;;;;
-62;Tunesien;Tunesien;CAF;26;26;69450000;;;;;;;;;;
-63;Montenegro;Montenegro;UEFA;28;28;68630000;;;;;;;;;;
-64;Guinea;Guinea;CAF;27;24;67500000;;;;;;;;;;
-65;Nigeria;Nigeria;CAF;20;24;64450000;;;;;;;;;;
-66;Kap Verde;Kap Verde;CAF;26;29;56180000;;;;;;;;;;
-67;Haiti;Haiti;CONCACAF;26;27;55530000;;;;;;;;;;
-68;Angola;Angola;CAF;27;29;51180000;;;;;;;;;;
-69;Südafrika;Südafrika;CAF;26;26;45800000;;;;;;;;;;
-70;Finnland;Finnland;UEFA;27;26;42300000;;;;;;;;;;
-71;Guinea-Bissau;Guinea-Bissau;CAF;24;26;41450000;;;;;;;;;;
-72;Armenien;Armenien;UEFA;27;26.0;40650000;;;;;;;;;;
-73;Suriname;Suriname;CONCACAF;26;29;39230000;;;;;;;;;;
-74;Saudi-Arabien;Saudi-Arabien;AFC;27;28;38100000;;;;;;;;;;
-75;Neuseeland;Neuseeland;OFC;26;28;35350000;;;;;;;;;;
+No;Land;Konföderation;Kadergröße;Ø-Alter;Marktwert
+1;France;UEFA;26;27.0;1530000000
+2;England;UEFA;26;27.1;1310000000
+3;Spain;UEFA;26;26.1;1260000000
+4;Portugal;UEFA;26;28.0;1020000000
+5;Germany;UEFA;26;28.0;998000000
+6;Brazil;CONMEBOL;26;29.2;912200000
+7;Netherlands;UEFA;26;27.1;837200000
+8;Argentina;CONMEBOL;26;29.1;818500000
+9;Norway;UEFA;26;26.1;601000000
+10;Belgium;UEFA;26;27.1;542900000
+11;Ivory Coast;CAF;26;25.1;530900000
+12;Turkey;UEFA;29;27.1;494200000
+13;Morocco;CAF;26;26.1;488200000
+14;Senegal;CAF;28;26.1;485900000
+15;Sweden;UEFA;26;27.1;428180000
+16;Denmark;UEFA;23;26.1;412500000
+17;Uruguay;CONMEBOL;26;28.1;405800000
+18;Croatia;UEFA;26;28.1;385700000
+19;United States;CONCACAF;26;26.1;378200000
+20;Ecuador;CONMEBOL;26;26.1;376200000
+21;Italy;UEFA;24;21.1;340900000
+22;Switzerland;UEFA;26;28.1;333600000
+23;Colombia;CONMEBOL;26;30.1;305250000
+24;Japan;AFC;26;27.1;278900000
+25;Austria;UEFA;26;28.1;271700000
+26;Greece;UEFA;26;26.1;261700000
+27;Algeria;CAF;26;26.1;257600000
+28;Ukraine;UEFA;26;26.1;254700000
+29;Georgia;UEFA;25;26.1;248250000
+30;Russia;UEFA;33;26.1;242200000
+31;Poland;UEFA;26;26.1;234300000
+32;Ghana;CAF;28;26.1;233750000
+33;Hungary;UEFA;29;25.1;214000000
+34;Cameroon;CAF;24;23.1;206700000
+35;Canada;CONCACAF;26;26.1;203050000
+36;Scotland;UEFA;27;29.0;196230000
+37;Mexico;CONCACAF;26;27.1;194600000
+38;Czech Republic;UEFA;26;27.1;190180000
+39;Serbia;UEFA;26;22.1;182300000
+40;Wales;UEFA;27;26.1;181700000
+41;Paraguay;CONMEBOL;26;29.0;157150000
+42;Kosovo;UEFA;30;27.1;155780000
+43;Bosnia and Herzegovina;UEFA;28;26.1;152700000
+44;Democratic Republic of the Congo;CAF;26;29.1;149050000
+45;Ireland;UEFA;26;25.1;144530000
+46;South Korea;AFC;26;28.1;142300000
+47;Egypt;CAF;26;29.0;134680000
+48;Mali;CAF;26;25.1;116550000
+49;Slovakia;UEFA;29;27.1;115850000
+50;Burkina Faso;CAF;25;25.0;109300000
+51;Slovenia;UEFA;26;26.1;100550000
+52;Romania;UEFA;26;27.1;99600000
+53;Albania;UEFA;26;27.1;91250000
+54;Israel;UEFA;25;26.1;87700000
+55;Iceland;UEFA;24;27.1;81350000
+56;Northern Ireland;UEFA;23;23.1;79900000
+57;Venezuela;CONMEBOL;27;25.1;76900000
+58;Gambia;CAF;23;25.1;74430000
+59;Australia;AFC;26;27.1;73650000
+60;Uzbekistan;AFC;30;28.0;73030000
+61;Chile;CONMEBOL;26;25.1;70100000
+62;Tunisia;CAF;26;26.1;69450000
+63;Montenegro;UEFA;28;28.1;68630000
+64;Guinea;CAF;27;24.1;67500000
+65;Nigeria;CAF;20;24.1;64450000
+66;Cape Verde;CAF;26;29.1;56180000
+67;Haiti;CONCACAF;26;27.1;55530000
+68;Angola;CAF;27;29.1;51180000
+69;South Africa;CAF;26;26.1;45800000
+70;Finland;UEFA;27;26.1;42300000
+71;Guinea-Bissau;CAF;24;26.1;41450000
+72;Armenia;UEFA;27;26.0;40650000
+73;Suriname;CONCACAF;26;29.1;39230000
+74;Saudi Arabia;AFC;27;28.1;38100000
+75;New Zealand;OFC;26;28.1;35350000
+76;Panama;CONCACAF;26;30.4;34550000
+77;New Zealand;OFC;26;28.1;34350000
+78;North Macedonia;UEFA;25;27.8;33800000
+79;Iran;AFC;26;30.4;32050000
+80;Bulgaria;UEFA;25;25.7;30150000
+81;Peru;CONMEBOL;24;27.1;30030000
+82;United Arab Emirates;AFC;24;26.7;29050000
+83;Togo;CAF;25;25.6;27830000
+84;Costa Rica;CONCACAF;21;24.8;27500000
+85;Curaçao;CONCACAF;26;28.0;25780000
+86;Zimbabwe;CAF;21;26.0;25330000
+87;Mauritania;CAF;25;26.9;25250000
+88;Iraq;AFC;26;26.9;21200000
+89;Honduras;CONCACAF;26;25.3;20930000
+90;Jordan;AFC;25;28.8;20000000
+91;Qatar;AFC;26;29.5;19930000
+92;Indonesia;AFC;22;25.8;19450000
+93;Cyprus;UEFA;27;26.8;19300000
+94;Azerbaijan;UEFA;26;27.5;18130000
+95;Bolivia;CONMEBOL;27;23.8;18050000
+96;Benin;CAF;25;26.2;17980000
+97;Kazakhstan;UEFA;25;26.0;16300000
+98;Belarus;UEFA;24;26.3;15380000
+99;Malta;UEFA;27;27.1;14950000
+100;Lithuania;UEFA;23;26.3;14730000
