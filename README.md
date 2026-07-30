@@ -19,14 +19,17 @@ Schaut es euch gerne mal an! Wenn ihr etwas findet, was man besser oder anders m
 
 ## Aktueller Stand 
 
-Ich konnte leider nur die Gruppenphasen vorhersagen, da der diesjährige Turnierplan es nicht ermöglicht, klar zu sagen, wer gegen wen antreten wird. Wenn ich es einplanen kann, werde ich das Gleiche noch einmal für die 16tel-Finals und die folgenden Runden versuchen zu prognostizieren!
+Gesamtgenauigkeit (exakte Gruppenplatzierung): 56,25 % (27 von 48 Plätzen exakt getroffen)
 
-herzliche Grüße,
+Richtige Gruppensieger: 10 von 12 (83,3 %)
 
-Tim
+Abweichungenbei den Gruppensiegern: Gruppe D (USA statt Türkei) und Gruppe K (Kolumbien statt Portugal).
+
+Richtige Qualifikanten für die K.-o.-Runde: 21 von 24 Teams (87,5 %)
+
+
 
 Vorhersagen:
-
 
 <img width="266" height="834" alt="Bildschirmfoto 2026-06-07 um 22 29 13" src="https://github.com/user-attachments/assets/d6f18e81-0131-4543-8d13-c69b070110b0" />
 <img width="357" height="416" alt="Bildschirmfoto 2026-06-07 um 22 29 27" src="https://github.com/user-attachments/assets/7bfbcbed-54ac-49b4-a340-30151512147e" />
